@@ -12,8 +12,8 @@
 <h1 style="font-weight: bold; color: purple; font-size: 30px; text-align: center;">
     Changes are happening in the Github by Srikanth
 </h1>
-<h1 style="font-weight: bold; color: yellow; font-size: 30px; text-align: center;">
-    deployment in tomcat testing by srikanth reddy
+<h1 style="font-weight: bold; color: red; font-size: 30px; text-align: center;">
+    deployment in tomcat testing by srikanth
 <h1 style="font-weight: bold; color: purple; font-size: 30px; text-align: center;">
     nexus setup is done by srikanth
 </body>
