@@ -13,7 +13,7 @@
     Changes are happening in the Github by Srikanth
 </h1>
 <h1 style="font-weight: bold; color: red; font-size: 30px; text-align: center;">
-    deployment in tomcat testing by srikanth
+    checking webhooks is working or not
 <h1 style="font-weight: bold; color: purple; font-size: 30px; text-align: center;">
     nexus setup is done by anil
 </body>
