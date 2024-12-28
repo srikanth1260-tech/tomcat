@@ -15,6 +15,6 @@
 <h1 style="font-weight: bold; color: yellow; font-size: 30px; text-align: center;">
     checking nexus is taking versions are not?
 <h1 style="font-weight: bold; color: purple; font-size: 30px; text-align: center;">
-    nexus setup is done by anil
+    nexus setup is done by srikanth
 </body>
 </html>
